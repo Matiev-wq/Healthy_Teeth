@@ -1,0 +1,118 @@
+body {
+margin: 0px;
+}
+
+.title-site {
+color: #00FFFF;
+}
+
+.container {
+position: sticky;
+top: 0;
+margin-left: 750px;
+background-color: #FFFFFF;
+}
+
+.header-logo {
+margin-top: 90px;
+margin-left: 230px;
+}
+
+.header-line {
+
+margin-left: 200px;
+}
+
+.device {
+margin-left: 700px;
+margin-top: 80px;
+}
+
+.title-help {
+margin-left: 600px;
+margin-top: 100px;
+}
+
+.options {
+margin-left: 700px;
+margin-top: 70px;
+}
+
+.instruction-1 {
+margin-left: 600px;
+margin-top: 70px;
+}
+
+.soda {
+margin-left: 8px;
+margin-top: 30px;
+}
+
+.basic-instruct-1 {
+margin-top: 30px;
+}
+
+.instruction-2 {
+margin-left: 600px;
+margin-top: 70px;
+}
+
+.explain {
+margin-top: 30px;
+}
+
+.exp {
+margin-left: 600px;
+margin-top: 30px;
+}
+
+.char {
+margin-left: 600px;
+}
+
+.tx {
+margin-left: 600px;
+margin-top: 30px;
+}
+
+.onion {
+margin-left: 600px;
+margin-top: 30px;
+}
+
+.inp {
+margin-top: 30px;
+margin-left: 600px;
+}
+
+.po {
+margin-left: 600px;
+margin-top: 30px;
+}
+
+.pioc {
+margin-left: 600px;
+}
+
+.irs {
+margin-left: 600px;
+margin-top: 30px;
+}
+
+.close {
+margin-left: 600px;
+margin-top: 50px;
+}
+
+.footer {
+width: 1897px;
+height: 400px;
+background-color: #CCCCCC;
+}
+
+.offering {
+margin-left: 780px;
+padding-top: 300px;
+}
+
+
